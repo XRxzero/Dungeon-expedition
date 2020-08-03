@@ -1,0 +1,17 @@
+﻿  game.cpp
+d:\c++打的题目\小游戏系列\dungeon expedition\地牢二版\game.cpp(1005): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\c++打的题目\小游戏系列\dungeon expedition\地牢二版\game.cpp(1650): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  main.cpp
+  monster.cpp
+d:\c++打的题目\小游戏系列\dungeon expedition\地牢二版\monster.cpp(9): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\c++打的题目\小游戏系列\dungeon expedition\地牢二版\monster.cpp(35): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\c++打的题目\小游戏系列\dungeon expedition\地牢二版\monster.cpp(61): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\c++打的题目\小游戏系列\dungeon expedition\地牢二版\monster.cpp(77): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\c++打的题目\小游戏系列\dungeon expedition\地牢二版\monster.cpp(106): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\c++打的题目\小游戏系列\dungeon expedition\地牢二版\monster.cpp(132): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\c++打的题目\小游戏系列\dungeon expedition\地牢二版\monster.cpp(148): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\c++打的题目\小游戏系列\dungeon expedition\地牢二版\monster.cpp(187): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\c++打的题目\小游戏系列\dungeon expedition\地牢二版\monster.cpp(228): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  tools.cpp
+  正在生成代码...
+  地牢二版.vcxproj -> D:\c++打的题目\小游戏系列\Dungeon expedition\Debug\地牢二版.exe
